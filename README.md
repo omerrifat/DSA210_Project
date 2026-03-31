@@ -2,7 +2,7 @@
 Ömer Rıfat Kuldaşlı
 
 ## Overview
-The goal of this project is to analyse my personal usage data from several online platforms between 2019 and 2026 and identify potential patterns in this data. These patterns may include recurring time-based changes in usage (for example, during certain seasons or after a certain year). The data also includes text content of my messages and posts, so perhaps the average length of my content may have changed over the years. The data may also be affected by certain external events (COVID-19, access restrictions in Turkey, etc.), so these events will be taken into consideration as well.
+The goal of this project is to analyse my personal usage data from several online platforms between 2018 and 2026 and identify potential patterns in this data. These patterns may include recurring time-based changes in usage (for example, during certain seasons or after a certain year). The data also includes text content of my messages and posts, so perhaps the average length of my content may have changed over the years. The data may also be affected by certain external events (COVID-19, access restrictions in Turkey, etc.), so these events will be taken into consideration as well.
 
 ## Data Sources
 | Name | Data Range | Contents | Collection Method |
