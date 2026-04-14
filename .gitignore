@@ -1,3 +1,4 @@
 data/original/**/*
 data/original/
 data/anonymized/discord/mapped_channels.csv
+data/anonymized/reddit/subreddits_mapped.csv

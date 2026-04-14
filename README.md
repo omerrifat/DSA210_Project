@@ -1,8 +1,12 @@
-# DSA210 Project Proposal
+# DSA210 Project
 Ömer Rıfat Kuldaşlı
 
 ## Overview
 The goal of this project is to analyse my personal usage data from several online platforms between 2018 and 2026 and identify potential patterns in this data. These patterns may include recurring time-based changes in usage (for example, during certain seasons or after a certain year). The data also includes text content of my messages and posts, so perhaps the average length of my content may have changed over the years. The data may also be affected by certain external events (COVID-19, access restrictions in Turkey, etc.), so these events will be taken into consideration as well.
+
+## LLM Usage Disclosure
+
+LLMs were used to assist with this project, mostly for writing matplotlib/pandas code. See the `llm/` folder for full LLM conversations.
 
 ## Data Sources
 | Name | Data Range | Contents | Collection Method |
@@ -15,3 +19,11 @@ The goal of this project is to analyse my personal usage data from several onlin
 | Liked X (Twitter) Post Data | Varies | Tweet contents (timestamp, text content) | API requests, webscraping |
 
 Most of the data I need can be requested directly from the respective platforms as JSON and CSV files. However, there is some data that is not provided as part of this data, such as the details of liked or bookmarked posts. These parts of the data may require additional API requests and web scraping to retrieve. Some of these posts or comments may have been removed as well, so retrieving some data may require relying on archived data like dumps on the Web Archive.
+
+## Exploratory Data Analysis
+
+See [01_eda.ipynb](01_eda.ipynb).
+
+## Hypothesis Testing
+
+See [02_hypothesis_testing.ipynb](02_hypothesis_testing.ipynb).
