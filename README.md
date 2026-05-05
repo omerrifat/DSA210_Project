@@ -27,3 +27,7 @@ See [01_eda.ipynb](01_eda.ipynb).
 ## Hypothesis Testing
 
 See [02_hypothesis_testing.ipynb](02_hypothesis_testing.ipynb).
+
+## Machine Learning
+
+See [03a_ml_supervised_learning.ipynb](03a_ml_supervised_learning.ipynb).
